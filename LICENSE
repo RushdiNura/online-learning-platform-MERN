@@ -1,0 +1,41 @@
+Lumenlearn LMS Platform — Source Code License
+
+Copyright (c) 2026
+
+This software and associated source code ("the Software") is provided to
+you for use, modification, and deployment, including in commercial products
+and services, subject to the following terms:
+
+1. GRANT OF LICENSE
+   You are granted a non-exclusive, worldwide, royalty-free license to use,
+   copy, modify, merge, publish, and distribute the Software, including for
+   the purpose of building and selling products or services derived from it,
+   provided that this license notice is retained in redistributed source
+   copies.
+
+2. THIRD-PARTY COMPONENTS
+   The Software depends on open-source packages (React, Express, MongoDB
+   drivers, Tailwind CSS, and others listed in package.json). Each remains
+   subject to its own license (predominantly MIT). Review each dependency's
+   license before commercial redistribution of the dependency itself.
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+4. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+5. YOUR RESPONSIBILITY BEFORE COMMERCIAL LAUNCH
+   Before offering this platform to customers, you are responsible for:
+   - Independent security review and penetration testing
+   - Adding real payment processing (a placeholder-only enrollment flow is
+     included; no payment gateway is integrated)
+   - Legal review of your own Terms of Service, Privacy Policy, and any
+     data-protection obligations (e.g. GDPR/CCPA) for your jurisdiction
+   - Load testing and infrastructure sizing for your expected user volume
+
+Replace this placeholder license with your own commercial license terms,
+or consult legal counsel, before distributing this software to customers.
